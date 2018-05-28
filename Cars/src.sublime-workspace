@@ -1,0 +1,634 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"verti",
+				"m_verticalInput"
+			],
+			[
+				"reardri",
+				"rearDriverW"
+			],
+			[
+				"rearPas",
+				"rearPassengerW"
+			],
+			[
+				"FrontDr",
+				"frontDriverT"
+			],
+			[
+				"Update",
+				"UpdateWheelPose"
+			],
+			[
+				"inter",
+				"minInterval"
+			],
+			[
+				"m_aud",
+				"m_audioValue"
+			],
+			[
+				"OnData",
+				"OnDataInsertFailure"
+			],
+			[
+				"Infinit",
+				"Infiniti_Q50RedSport_18"
+			],
+			[
+				"OnB",
+				"OnBecameInvisible"
+			],
+			[
+				"Menuef",
+				"MenuEffectOptions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/CarController.cs",
+			"settings":
+			{
+				"buffer_size": 1692,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/CameraFollowController.cs",
+			"settings":
+			{
+				"buffer_size": 916,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 700.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 777.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/Cars/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/ProgrammedSmoke/Assets/Scripts/CameraTextureBlur.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/ProgrammedSmoke/Assets/Scripts/SmokeRawImage.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/ProgrammedSmoke/Assets/Scripts/TextureGenerator.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/ProgrammedSmoke/Assets/Scripts/NoiseTextureGenerator.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/Audio Sync Effects/ProgrammedSmoke/Assets/Scripts/NoiseTextureGenerator.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/Tutorials/MusicSyncVisualizer/AudioSyncScale.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/Tutorials/MusicSyncVisualizer/AudioSpectrum.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/Tutorials/MusicSyncVisualizer/AudioSyncer.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/Tutorials/MusicSyncVisualizer/AudioSyncColor.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSyncVisualizer/AudioSpectrum.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSyncVisualizer/AudioSyncer.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSyncVisualizer/AudioSyncScale.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSyncVisualizer/AudioSyncResponder.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSyncVisualizer/AudioSyncMaster.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/RenaissanceCoders_UnityScripting/UnityScripting/Assets/MusicSync/AudioSyncer.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.dynamodb/util/DynamoConverter.cs",
+		"/C/Users/Darren/Documents/Bitbucket/alphathemes/Alpha_Themes/Assets/Alpha_Tools/Editor/AT.Tools/ToolUtility.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/DynamoDBService.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.io/Files.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.data/ddo/DynamicDealerObject.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.util/Logger.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.dynamodb/DynamoPutItemProcess.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.data/Lead.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/Session.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.util/Utility.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/Plugins/SimpleJSON.cs",
+		"/C/Users/Darren/Documents/Renaissance Coders/YoutubeChannel/RenaissanceCoders2018/UnityScripting/Assets/MusicSync/MusicSyncer.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/LocalFileManager.cs",
+		"/C/Users/Darren/Documents/work/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/S3Service.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.data/ddo/DDOVideo.cs",
+		"/E/Darren/bitbucket/real360editor_unity2017.3/Real360Editor/Assets/Scripts/App/Buttons/ARSequenceEditor/SequencePreviewImage.cs",
+		"/E/Darren/bitbucket/vr-test-drive/.git/info/exclude",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/Session.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.data/adf/ADFFile.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.data/Lead.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.menu/events/EndCarSelectionEvent.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.io/Files.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.util/Logger.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/S3Service.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.util/Type.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/AVProVideo/Scripts/Components/MediaPlayer.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.data/ddo/DynamicDealerObject.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.vr/scenes/VideoScene.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.vr/leap-motion/interaction/IELoadVRScene.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.persistent/SceneController.cs",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.vr/scenes/VRScene.cs",
+		"/C/Users/FLOWFOUND/Downloads/Darren Expense Report (VA Autoshow) (1).xlsx",
+		"/E/Darren/bitbucket/vr-test-drive/VRTestDrive/vrtestdrive.sublime-project",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-builds/.git/info/exclude",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/ARTargetTrigger.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/.git/info/exclude",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/ARTargetResponder.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.camera/DebugCam.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.persistent/Session.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive/VRTestDrive/Assets/scripts/app.util/Utility.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/ARVideoStartEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/TouchKit/scripts/touchkit.touchmanagement/TouchManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.menu/pages/PageManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/derivatives/EntranceTargetResponder.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/ARTargetCrosshairProgress.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/jeffwyler-ar/JeffWylerGroupAR/Assets/scripts/app.ar/ARTargetProgressBar.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.persistent/Session.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/MapInteractionArea.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.io/Files.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/VideoJumpEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/scenes/VideoScene.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/InteractionEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/Plugins/SimpleJSON.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.io/Config.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/AVProVideo/Scripts/Components/MediaPlayer.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.data/ddo/DDOVideo.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/InteractionAreaPageController.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/CloseMapEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/StopSongEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/InteractionArea.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.data/Lead.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/scenes/VRScene.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.data/adf/ADFFile.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.util/Logger.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/CloseStereoEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.persistent/LocalFileManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/pages/PageManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/scenes/RateScene.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.persistent/ScreenSaver.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/LaunchInteractionArea.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/events/EndSimulationEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.persistent/SceneController.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/events/LoadSceneEvent2D.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/input_fields/AutoCorrectInputField.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/input_fields/EmailInputField.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/events/ButtonEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/events/RatingEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/pages/RateMenuController.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/input_fields/InputFieldGroup.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.data/LeadBuilder.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/events/RatingToggleEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/input_fields/PhoneInputField.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/keyboard/Keyboard.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/keyboard/ConfirmKeyboardEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.util/Type.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/pages/ScreenSaverPage.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.data/ddo/DynamicDealerObject.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/menu/page-mangers/VideoScenePageManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/effects/MenuEffect.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.persistent/AudioManager.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/camera/CameraFollowObject.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/effects/FillFadeEffect.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/LoadPageEvent.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.vr/leap-motion/interaction/StereoInteractionArea.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.menu/pages/PageController.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/Assets/scripts/app.yieldinstruction/WaitForUpdate.cs",
+		"/C/Users/FLOWFOUND/Documents/Darren/bitbucket/vr-test-drive-demo/VRTestDriveDemo/vrtestdrivedemo.sublime-project"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tostring",
+			"UpdateLeadVehicle",
+			"s3service",
+			"OnVideoEnd",
+			"activeScene == SceneType.VR",
+			"if (activeScene == SceneType.VR) {",
+			"OpenContent",
+			"SendProgressUpdate",
+			"OnProgressUpdate",
+			"worldUIPageManager"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/CarController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/CameraFollowController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "src.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"logg",
+				"app.util\\Logger.cs"
+			],
+			[
+				"dy",
+				"app.data\\ddo\\DynamicDealerObject.cs"
+			],
+			[
+				"lea",
+				"app.data\\Lead.cs"
+			],
+			[
+				"fil",
+				"app.io\\Files.cs"
+			],
+			[
+				"local",
+				"app.persistent\\LocalFileManager.cs"
+			],
+			[
+				"uti",
+				"app.util\\Utility.cs"
+			],
+			[
+				"adf",
+				"app.data\\adf\\ADFFile.cs"
+			],
+			[
+				"file",
+				"app.io\\Files.cs"
+			],
+			[
+				"s3ser",
+				"app.persistent\\S3Service.cs"
+			],
+			[
+				"vrs",
+				"app.vr\\scenes\\VRScene.cs"
+			],
+			[
+				"scenec",
+				"app.persistent\\SceneController.cs"
+			],
+			[
+				"ses",
+				"app.persistent\\Session.cs"
+			],
+			[
+				"tri",
+				"app.ar\\ARTargetTrigger.cs"
+			],
+			[
+				"artargetre",
+				"app.ar\\ARTargetResponder.cs"
+			],
+			[
+				"videosc",
+				"app.vr\\scenes\\VideoScene.cs"
+			],
+			[
+				"interactionev",
+				"app.vr\\leap-motion\\interaction\\InteractionEvent.cs"
+			],
+			[
+				"videoju",
+				"app.vr\\leap-motion\\interaction\\VideoJumpEvent.cs"
+			],
+			[
+				"mapinter",
+				"app.vr\\leap-motion\\interaction\\MapInteractionArea.cs"
+			],
+			[
+				"ddovi",
+				"app.data\\ddo\\DDOVideo.cs"
+			],
+			[
+				"interactionarea",
+				"app.vr\\leap-motion\\interaction\\InteractionAreaPageController.cs"
+			],
+			[
+				"intera",
+				"app.vr\\leap-motion\\interaction\\InteractionArea.cs"
+			],
+			[
+				"ddov",
+				"app.data\\ddo\\DDOVideo.cs"
+			],
+			[
+				"vr",
+				"app.vr\\scenes\\VRScene.cs"
+			],
+			[
+				"log",
+				"app.util\\Logger.cs"
+			],
+			[
+				"lead",
+				"app.data\\Lead.cs"
+			],
+			[
+				"pagem",
+				"app.menu\\pages\\PageManager.cs"
+			],
+			[
+				"ratesc",
+				"app.vr\\scenes\\RateScene.cs"
+			],
+			[
+				"closese",
+				"app.vr\\leap-motion\\interaction\\CloseStereoEvent.cs"
+			],
+			[
+				"vrsc",
+				"app.vr\\scenes\\VRScene.cs"
+			],
+			[
+				"map",
+				"app.vr\\leap-motion\\interaction\\MapInteractionArea.cs"
+			],
+			[
+				"scre",
+				"app.persistent\\ScreenSaver.cs"
+			],
+			[
+				"launch",
+				"app.vr\\leap-motion\\interaction\\LaunchInteractionArea.cs"
+			],
+			[
+				"scene",
+				"app.persistent\\SceneController.cs"
+			],
+			[
+				"button",
+				"app.menu\\events\\ButtonEvent.cs"
+			],
+			[
+				"loadsce",
+				"app.menu\\events\\LoadSceneEvent2D.cs"
+			],
+			[
+				"key",
+				"app.menu\\keyboard\\Keyboard.cs"
+			],
+			[
+				"keyb",
+				"app.menu\\keyboard\\Keyboard.cs"
+			],
+			[
+				"inputfi",
+				"app.menu\\input_fields\\AutoCorrectInputField.cs"
+			],
+			[
+				"leadb",
+				"app.data\\LeadBuilder.cs"
+			],
+			[
+				"rat",
+				"app.menu\\events\\RatingToggleEvent.cs"
+			],
+			[
+				"rateme",
+				"app.menu\\pages\\RateMenuController.cs"
+			],
+			[
+				"rate",
+				"app.menu\\events\\RatingEvent.cs"
+			],
+			[
+				"type",
+				"app.util\\Type.cs"
+			],
+			[
+				"vrscene",
+				"app.vr\\scenes\\VRScene.cs"
+			],
+			[
+				"interactionareap",
+				"app.vr\\leap-motion\\interaction\\InteractionAreaPageController.cs"
+			],
+			[
+				"dynam",
+				"app.data\\ddo\\DynamicDealerObject.cs"
+			],
+			[
+				"menu",
+				"app.menu\\effects\\MenuEffect.cs"
+			],
+			[
+				"fill",
+				"app.menu\\effects\\FillFadeEffect.cs"
+			],
+			[
+				"camerafo",
+				"app.vr\\camera\\CameraFollowObject.cs"
+			],
+			[
+				"interac",
+				"app.vr\\leap-motion\\interaction\\InteractionArea.cs"
+			],
+			[
+				"audiom",
+				"app.persistent\\AudioManager.cs"
+			],
+			[
+				"ty",
+				"app.util\\Type.cs"
+			],
+			[
+				"stereoint",
+				"app.vr\\leap-motion\\interaction\\StereoInteractionArea.cs"
+			],
+			[
+				"page",
+				"app.menu\\pages\\PageController.cs"
+			],
+			[
+				"waitfo",
+				"app.yieldinstruction\\WaitForUpdate.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 428.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
