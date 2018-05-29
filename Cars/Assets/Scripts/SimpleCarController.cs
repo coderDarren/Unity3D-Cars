@@ -2,20 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CarController : MonoBehaviour {
+public class SimpleCarController : MonoBehaviour {
 
-
-	private void GetInput()
+	public void GetInput()
 	{
-		m_verticalInput = Input.GetAxis("Vertical");
 		m_horizontalInput = Input.GetAxis("Horizontal");
+		m_verticalInput = Input.GetAxis("Vertical");
 	}
 
 	private void Steer()
 	{
-		m_steerAngle = Mathf.Lerp(m_steerAngle, maxSteerAngle * m_horizontalInput, 10 * Time.deltaTime);
-		frontDriverW.steerAngle = m_steerAngle;
-		frontPassengerW.steerAngle = m_steerAngle;
+		m_steeringAngle = maxSteerAngle * m_horizontalInput;
+		frontDriverW.steerAngle = m_steeringAngle;
+		frontPassengerW.steerAngle = m_steeringAngle;
 	}
 
 	private void Accelerate()
@@ -35,11 +34,12 @@ public class CarController : MonoBehaviour {
 	private void UpdateWheelPose(WheelCollider _collider, Transform _transform)
 	{
 		Vector3 _pos = _transform.position;
-		Quaternion _rot = _transform.rotation;
+		Quaternion _quat = _transform.rotation;
 
-		_collider.GetWorldPose(out _pos, out _rot);
+		_collider.GetWorldPose(out _pos, out _quat);
+
 		_transform.position = _pos;
-		_transform.rotation = _rot;
+		_transform.rotation = _quat;
 	}
 
 	private void FixedUpdate()
@@ -52,21 +52,12 @@ public class CarController : MonoBehaviour {
 
 	private float m_horizontalInput;
 	private float m_verticalInput;
-	private float m_steerAngle;
+	private float m_steeringAngle;
 
 	public WheelCollider frontDriverW, frontPassengerW;
 	public WheelCollider rearDriverW, rearPassengerW;
 	public Transform frontDriverT, frontPassengerT;
 	public Transform rearDriverT, rearPassengerT;
-	public DriveType driveType;
 	public float maxSteerAngle = 30;
 	public float motorForce = 50;
-
-	public enum DriveType
-	{
-		FrontWheel,
-		RearWheel,
-		AllWheel
-	}
-
 }
